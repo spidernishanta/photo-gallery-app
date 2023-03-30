@@ -1,4 +1,4 @@
-# photo-gallery-app
+# Photo Gallery App
 The project is to develop a Photo Gallery App in JavaScript programming.
 
 
