@@ -1,4 +1,4 @@
-# Photo Gallery App
+# Photo Gallery App <a href="www.google.com"><ion-icon name="document-outline"></ion-icon></a>
 The project is to develop a Photo Gallery App in JavaScript programming.
 
 
