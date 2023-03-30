@@ -1,0 +1,11 @@
+{
+  "name": "photo-gallery-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "spidernishanta",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
