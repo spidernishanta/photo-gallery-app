@@ -1,4 +1,4 @@
-# Photo Gallery App [📄](https://github.com/spidernishanta/photo-gallery-app/blob/main/Documentation.pdf)
+# Photo Gallery App
 The project is to develop a Photo Gallery App in JavaScript programming.
 
 
